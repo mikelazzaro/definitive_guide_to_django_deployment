@@ -23,3 +23,6 @@ settings.json
 .#*
 *_old
 */*/local_settings.pychef_files/data_bag_key
+*.swp
+settings.json
+aws.cfg
