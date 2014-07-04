@@ -212,7 +212,7 @@ If you don't do that, then you need to...
 
 This guide assumes a standard Django 1.5 project layout with a few small tweaks:
 
-* Your settings should be comprised of three files:
+* Your settings should be composed of three files:
 
         app
         \--settings
